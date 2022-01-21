@@ -8,7 +8,7 @@ permalink: projects/marchingband_leadership
 date: 2019-06-01
 labels:
   - Extracurricular
-summary: A text adventure game I developed for ICS 313.
+summary: A member of the Pearl City Marching Band Leadership team.
 ---
 
 <img class="ui image" src="{{ site.baseurl }}/images/cotton-header.png">
