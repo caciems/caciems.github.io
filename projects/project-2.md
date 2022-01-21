@@ -2,24 +2,17 @@
 layout: project
 type: project
 image: images/vacay-square.png
-title: Vacay
-permalink: projects/vacay
+title: Momilani Family Fun Fair
+permalink: projects/momilani_family_funfair
 # All dates must be YYYY-MM-DD format!
-date: 2015-12-15
+date: 2019-05-01
 labels:
-  - Javascript
-  - Meteor
-  - MongoDB
-  - GitHub
+  - Community Service
 summary: A responsive web application for travel planning that my team developed in ICS 415.
 ---
 
 <img class="ui medium right floated rounded image" src="../images/vacay-home-page.png">
 
-Vacay is a web application that I helped create as a team project in ICS 415, Spring 2015. The project helped me learn how to design and implement a responsive web site.
-
-Vacay is implemented using [Meteor](http://meteor.com), a JavaScript application platform. Within two weeks, we created a website that implements several types of reservations including flights, hotels, and car rentals.
-
-In this project I gained experience with full-stack web application design and associated technologies, including [MongoDB](http://mongodb.com) for database storage, the [Twitter Bootstrap](http://getbootstrap.com/) CSS Framework for the user interface, and Javascript for both client and server-side programming. 
+The Momilani Family Fun Fair was an annual event at Momilani Elementary School for their students to enjoy after an entire school year. Since Pearl City High School is right next door, students in the band program would go and help run the various games and food stands set up all over the cafeteria area. Since I was assigned to run the games, we were tasked to help the students win the game without making it obvious, which was easier said than done... Running the games quickly got stressful as the kids would run towards the games to fill out their stamp cards. There will always be a long line of rowdy and loud kids wanting to give a try at the game. Even if they don’t win, we still give them a stamp on their stamp card. The kids go to the various games and win for a stamp on their stamp card. Filling out this stamp card gives them the chance to win the jackpot prize consisting of toys or a V-Bucks card for Fortnite.
  
 Source: <a href="https://github.com/theVacay/vacay"><i class="large github icon"></i>theVacay/vacay</a>
