@@ -7,7 +7,7 @@ permalink: projects/marchingband_leadership
 # All dates must be YYYY-MM-DD format!
 date: 2019-06-01
 labels:
-  - Extracurricular Activity
+  - Extracurricular
 summary: A text adventure game I developed for ICS 313.
 ---
 
