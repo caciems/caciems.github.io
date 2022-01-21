@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/vacay-square.png
+image: images/familyfunnight.jpg
 title: Momilani Family Fun Fair
 permalink: projects/momilani_family_funfair
 # All dates must be YYYY-MM-DD format!
