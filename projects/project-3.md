@@ -11,7 +11,7 @@ labels:
 summary: A member of the Pearl City Marching Band Leadership team.
 ---
 
-<img class="ui image" src="{{ site.baseurl }}/images/cotton-header.png">
+<img class="ui image" src="{{ site.baseurl }}/images/entiremarchingband.jpg">
 
 In my senior year of high school, I was selected to be the attendance keeper for the marching band. I was responsible for taking attendance for all the members in the marching band at practices, football games, and marching band competitions, and keeping an organized record of the attendance for the entire season. I was also responsible for keeping tabs on every single person riding on a certain bus when the band has to go off campus for football games or competitions. This includes any band directors, techs, and chaperones that decide to come with us on these trips. Sometimes the adults were harder to keep tabs on than the students.
 
