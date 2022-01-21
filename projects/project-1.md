@@ -12,10 +12,7 @@ summary: An ambassador for the Technology and Design pathway at Pearl City High 
 ---
 
 <div class="ui small rounded images">
-  <img class="ui image" src="../images/micromouse-robot.png">
-  <img class="ui image" src="../images/micromouse-robot-2.jpg">
-  <img class="ui image" src="../images/micromouse.jpg">
-  <img class="ui image" src="../images/micromouse-circuit.png">
+  <img class="ui image" src="../images/hidoe.jpg">
 </div>
 
 In my junior year of high school, I was selected to become an academy ambassador for the Academy of Technology and Design. Being an academy ambassador meant being able to know information about every pathway at the school. At Pearl City High School, there are three pathways: Culinary Art Health Science and Leadership (CAHSL), International Business and Design (IBAD), and Technology and Design (TAD). My responsibility was to present information and the accomplishments of each academy and their pathways. For example, the Health Science pathway of the CAHSL academy is known for collaborating with the nursing program at Kapiolani Community College to get high school students CPR certified. Knowing this information, we were expected to present this information, and more to prospective students and staff members from other high schools and the HIDOE.
