@@ -8,7 +8,7 @@ permalink: projects/momilani_family_funfair
 date: 2019-05-01
 labels:
   - Community Service
-summary: A responsive web application for travel planning that my team developed in ICS 415.
+summary: Providing help with carnival games at Momilani Elementary School events.
 ---
 
 <img class="ui medium right floated rounded image" src="../images/vacay-home-page.png">
