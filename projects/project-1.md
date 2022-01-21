@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/micromouse.jpg
+image: images/academieslogo.jpg
 title: Academy Ambassador for Technology and Design
 permalink: projects/academyambassador
 # All dates must be YYYY-MM-DD format!
