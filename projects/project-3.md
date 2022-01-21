@@ -2,13 +2,12 @@
 layout: project
 type: project
 image: images/cotton-square.png
-title: Cotton
-permalink: projects/cotton
+title: Pearl City Marching Band Leadership
+permalink: projects/marchingband_leadership
 # All dates must be YYYY-MM-DD format!
-date: 2014-04-12
+date: 2019-06-01
 labels:
-  - Lisp
-  - GitHub
+  - Extracurricular Activity
 summary: A text adventure game I developed for ICS 313.
 ---
 
