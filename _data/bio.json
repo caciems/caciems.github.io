@@ -78,7 +78,11 @@
     {
       "institution": "Pearl City High School, Pearl City, HI",
       "startDate": "2016-08-01",
-      "endDate": "2020-05-31"
+      "endDate": "2020-05-31",
+      "studyType": "",
+      "gpa": "",
+      "courses": [
+      ]
     }
   ],
   "work": [
@@ -96,15 +100,6 @@
   ],
   "volunteer": [
     {
-      "organization": "",
-      "website": "",
-      "position": "Game Operator",
-      "startDate": "2017-05-01"
-      "summary": "Providing assistance at the Momilani Family Fun Night",
-      "highlights": [
-        "Operate the games kids will be playing with",
-        "Managing long never-ending lines"
-      ]
     }
   ],
   "awards": [
