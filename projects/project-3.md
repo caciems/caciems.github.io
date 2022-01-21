@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/pcmarchingband.png
+image: images/pcmarchingband.jpg
 title: Pearl City Marching Band Leadership
 permalink: projects/marchingband_leadership
 # All dates must be YYYY-MM-DD format!
