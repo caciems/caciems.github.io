@@ -6,6 +6,7 @@ date: 2022-01-17
 labels:
   - Software Engineering
   - Learning
+  - JavaScript
 ---
 
 As someone who has taken ICS 111 and ICS 211, I was forced to get my feet wet in programming in Java. However, now that I have some experience with both Java and JavaScript, I can now say that there are some notable differences between the two languages. There are some aspects of JavaScript that make coding less tedious than Java. One example is how we can use an operation symbol with the equal sign whenever you want to do an operation on a value. It helps save time since I don’t have to write the value name over and over again. I also enjoy how easy object building is in JavaScript. When we declare the object, we can add as many characteristics as we want by listing it inside the brackets. We can also delete any properties we don’t want in the object. This is far more convenient than object programming in Java. I’m also quite grateful that we can use functions like “.push()”, “.pop()”, “.unshift()”, and “.shift()” when dealing with arrays. I found it frustrating to add new elements into a regular array in Java, and especially not being able to use these kinds of functions in ICS 211. In the end, since I’m more used to Java, utilizing all this in my code will take lots of practice and time, and hopefully I will come across more convenient tricks that I can implement into my own code.
