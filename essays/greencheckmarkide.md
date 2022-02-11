@@ -1,12 +1,14 @@
 ---
 layout: essay
 type: essay
-title: Welcome to "Is this Smart or Stupid?"
+title: The Godforsaken Green Checkmark
 # All dates must be YYYY-MM-DD format!
-date: 2022-01-26
+date: 2022-02-10
 labels:
   - Software Engineering
   - Learning
+  - JavaScript
+  - IntelliJ IDE
 ---
 
 ## Comfort, but at what cost?
