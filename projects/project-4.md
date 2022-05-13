@@ -30,13 +30,13 @@ The Manoa Organization Database (MOD) is a web application that functions as a c
 
 Clicking on the Database Link will take you to a page where you can view the clubs in the database:
 
-Image goes here
+![](doc/club-database2.png)
 
 ### Interest Search Page
 
 Clicking on the Search by Interest Link will take you to a page where you can filter the clubs in the database by one or more interests:
 
-image goes here
+![](doc/interest-search2.png)
 
 Warning: The page will display all clubs that match any of the interests, even if it only matches one.
 
@@ -44,7 +44,7 @@ Warning: The page will display all clubs that match any of the interests, even i
 
 Clicking on either the club card on the database and interest search pages or the club button on your profile will take you to the appropriate club page:
 
-image goes here
+![](doc/club-page.png)
 
 Here you can see the club name, description, picture, interests, and admins.
 
