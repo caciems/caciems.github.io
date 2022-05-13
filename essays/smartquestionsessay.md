@@ -15,7 +15,7 @@ For software engineers, the difference between a smart question and a “not so 
 ## Is this Smart or Stupid?
 
 <div class="ui small rounded images">
-  <img class="ui image" src="../images/gameshow.jpg">
+  <img class="ui right floated image" src="../images/gameshow.jpg">
 </div>
 
 While scrolling through StackOverflow, I happened to stumble upon a user who displays asking a “not so smart question.” Following Raymond’s guidelines for a smart question, it doesn’t follow a number of requirements. Firstly, the header of the post is basically demanding other users to give a straight answer. In the body, the asker further demands people that stumble upon their post for an answer to their question.This user also doesn’t put any more effort into finding a solution by themselves prior to posting. By the length and tone of the text, you can tell that the user is only looking for a quick and straight up answer, which by Raymond’s guidelines, does not qualify as a smart question. Luckily, responders to this post were kind enough to politely and thoroughly explain a solution to their question.
@@ -26,7 +26,7 @@ On the other hand, I did manage to find a user who posted a smart question. They
 ## But I'm not a Loser...
 
 <div class="ui small rounded images">
-  <img class="ui image" src="../images/loser.png">
+  <img class="ui right floated image" src="../images/loser.png">
 </div>
 
 While I don’t disagree that some “not smart” questions waste time, I do believe that questions serve as beneficial experiences to both the asker and the responder, no matter how small it may seem in hindsight. The asker of the question receives an answer they may have overlooked while searching for a solution, while the responder has the opportunity to either solidify their knowledge of the topic or to use their knowledge to solve a problem they may not have encountered before. (I also think it’s kind of condescending to call people who ask “not so smart questions'' losers, but that might just be me). It may be quite naive of me to believe that everyone responding to a question will respond in a neutral or polite tone, I believe that no one should get mad at anyone for asking a question. Times have changed and, from my experience, I’ve never seen anyone respond to an asker in a condescending tone. However, I do believe that the asker of the question still has a responsibility to not sound condescending or demanding.
