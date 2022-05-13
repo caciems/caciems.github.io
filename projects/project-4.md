@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/academieslogo.jpg
 title: Manoa Organization Database
-permalink: projects/academyambassador
+permalink: projects/manoa-organization-database
 # All dates must be YYYY-MM-DD format!
 date: 2022-05-12
 labels:
