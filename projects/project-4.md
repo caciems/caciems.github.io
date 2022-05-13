@@ -12,10 +12,55 @@ labels:
 summary: A website that lists every club and organization at the UH Manoa campus so that students are able to participate in student activities.
 ---
 
-<div class="ui small rounded images">
-  <img class="ui image" src="../images/hidoe.jpg">
-</div>
+# Manoa Organization Database
 
-In my junior year of high school, I was selected to become an academy ambassador for the Academy of Technology and Design. Being an academy ambassador meant being able to know information about every pathway at the school. At Pearl City High School, there are three pathways: Culinary Art Health Science and Leadership (CAHSL), International Business and Design (IBAD), and Technology and Design (TAD). My responsibility was to present information and the accomplishments of each academy and their pathways. For example, the Health Science pathway of the CAHSL academy is known for collaborating with the nursing program at Kapiolani Community College to get high school students CPR certified. Knowing this information, we were expected to present this information, and more to prospective students and staff members from other high schools and the HIDOE.
+![ci-badge](https://github.com/manoa-organization-database/manoa-organization-database/workflows/ci-manoa-organization-database/badge.svg)
 
-My high school held an event and invited staff members mainly from the HIDOE, including the supervisor, to showcase the Culinary pathway of the CAHSL academy. Students cooked for a buffet style meal and served the food to everyone at the event (The food was really good btw). The academy ambassadors were also in attendance to talk to the people from the DOE to, hopefully, persuade them to support all the programs at Pearl City. 
+## Github Repository
+[Repository Link](https://github.com/manoa-organization-database/manoa-organization-database)
+
+## Deployment
+[Digital Ocean deployed application](https://manoa-organization-database.xyz/)
+
+## Overview
+
+The Manoa Organization Database (MOD) is a web application that functions as a catalog for the various student clubs operating in UH Manoa. Club leaders are able to provide information about their clubs such as descriptions, meeting times and locations, contact information, among others. Students can search for clubs according to their interests, as well as being notified when a club matching their interests is created. 
+
+### Club Database Page
+
+Clicking on the Database Link will take you to a page where you can view the clubs in the database:
+
+Image goes here
+
+### Interest Search Page
+
+Clicking on the Search by Interest Link will take you to a page where you can filter the clubs in the database by one or more interests:
+
+image goes here
+
+Warning: The page will display all clubs that match any of the interests, even if it only matches one.
+
+### Club Page
+
+Clicking on either the club card on the database and interest search pages or the club button on your profile will take you to the appropriate club page:
+
+image goes here
+
+Here you can see the club name, description, picture, interests, and admins.
+
+## Milestones
+* [M1](https://github.com/manoa-organization-database/manoa-organization-database/projects/1)
+* [M2](https://github.com/manoa-organization-database/manoa-organization-database/projects/3)
+* [M3](https://github.com/manoa-organization-database/manoa-organization-database/projects/4)
+
+Project Members:
+* Michael Jake Sumaylo
+  * [https://msumaylo.github.io/](https://msumaylo.github.io/) 
+* Cacie Sonomura
+  * [https://caciems.github.io/](https://caciems.github.io/)
+* Cameron Sumida
+  * [https://sumidaca.github.io/](https://sumidaca.github.io/)
+* Justin Jandoc
+  * [https://justinjandoc.github.io/](https://justinjandoc.github.io/)
+* Jeremiah Dy
+  * [https://jeremiah-dy.github.io/](https://jeremiah-dy.github.io/)
