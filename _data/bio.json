@@ -52,7 +52,8 @@
         "C",
         "C++",
         "Java",
-        "Javascript"
+        "Javascript",
+        "HTML"
       ]
     },
     {
@@ -60,7 +61,10 @@
       "level": "",
       "keywords": [
         "MacOS",
-        "Git/GitHub"
+        "Windows",
+        "Eclipse IDE",
+        "Git/GitHub",
+        "IntelliJ IDE"
       ]
     }
   ],
@@ -105,10 +109,10 @@
       "position": "Academy Ambassador of Technology and Design",
       "startDate": "2018-06-01",
       "endDate": "2020-05-31",
-      "summary": "Lead developer for weather sensing project",
+      "summary": "An ambassador for the Technology and Design Pathway at Pearl City High School",
       "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
+        "Attended dinner event with higher ups from the HIDOE",
+        "Attended conference with founders of Academies and Pathways"
       ]
     }
   ],
