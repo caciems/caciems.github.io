@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/academieslogo.jpg
+image: images/logo.png
 title: Manoa Organization Database
 permalink: projects/manoa-organization-database
 # All dates must be YYYY-MM-DD format!
