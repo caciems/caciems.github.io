@@ -12,8 +12,6 @@ labels:
 summary: A website that lists every club and organization at the UH Manoa campus so that students are able to participate in student activities.
 ---
 
-# Manoa Organization Database
-
 ![ci-badge](https://github.com/manoa-organization-database/manoa-organization-database/workflows/ci-manoa-organization-database/badge.svg)
 
 ## Github Repository
